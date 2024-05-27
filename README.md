@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bulgogi-Pizza
-- 👀 I’m interested in Machine-Learning, NLP, Hardware Accellerator
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Machine-Learning, NLP, Hardware Accellerator, Front-end, Back-end, DevOps, MLOps, AI
+- 🌱 I’m currently learning full-stack development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, send me a message to quitendexit@gmail.com :)
 
