@@ -12,8 +12,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://www.instagram.com/__eastman/])
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/C-%A8B9CC.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Python3](https://img.shields.io/badge/Python-%3776AB?style=flat&logo=Python&logoColor=white) 
+![C](https://img.shields.io/badge/C-%A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white) 
+![Python3](https://img.shields.io/badge/Python-%3776AB?style=for-the-badge&logo=Python&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
