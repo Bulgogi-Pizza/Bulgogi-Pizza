@@ -4,7 +4,11 @@
 
 </a>
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{ftfg777}"/>
+  <img src="https://render.gitanimals.org/farms/Bulgogi-Pizza"/>
+</a>
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Bulgogi-Pizza&label=Profile%20Views&color=3&pretty=true" />
 </a>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cxxn__woo)
@@ -21,7 +25,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Bulgogi-Pizza&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Bulgogi-Pizza&icon=0&color=1)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=Bulgogi-Pizza&label=Profile%20Views&color=3&pretty=true)
 
 - 👋 Hi, I’m @Bulgogi-Pizza
 - 👀 I’m interested in Machine-Learning, NLP, Hardware Accellerator, Front-end, Back-end, DevOps, MLOps, AI
