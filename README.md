@@ -20,6 +20,8 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ![Spyder IDE](https://img.shields.io/badge/SpyderIDE-FF0000.svg?style=for-the-badge&logo=SpyderIDE&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ![Slack](https://img.shields.io/badge/-Slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white) 
 
