@@ -1,17 +1,14 @@
 
----
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/Bulgogi-Pizza?pet-id=596865399259950329" width="1000" height="120"/>
 </a>
 
----
-
 
 ## 🌐 Socials :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://www.instagram.com/__eastman/])
 
----
+
 
 ## 💻 Tech Stack :
 ![C](https://img.shields.io/badge/-C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white) 
@@ -32,7 +29,7 @@
 
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
----
+
 
 ## 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Bulgogi-Pizza&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
@@ -42,7 +39,7 @@
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Bulgogi-Pizza&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
+
 
 ## 👀 Visit Count :
 <a href="https://visitcount.itsvg.in">
