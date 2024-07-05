@@ -38,7 +38,7 @@
 
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Bulgogi-Pizza&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Bulgogi-Pizza&limit=5&theme=vue&combine_all_yearly_contributions=true)
 
 
 
