@@ -1,5 +1,5 @@
 </a>
-<a href="https://github.com/devxb/gitanimals">
+<a>
   <img src="https://render.gitanimals.org/farms/Bulgogi-Pizza"/>
 </a>
 
