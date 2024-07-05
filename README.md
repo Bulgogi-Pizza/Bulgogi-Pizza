@@ -21,7 +21,7 @@
 ![Spyder IDE](https://img.shields.io/badge/-SpyderIDE-FF0000.svg?style=for-the-badge&logo=SpyderIDE&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/-eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJIDEA-000000.svg?style=for-the-badge&logo=IntelliJ&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJIDE-000000.svg?style=for-the-badge&logo=IntelliJIDE&logoColor=white)
 
 ![Slack](https://img.shields.io/badge/-Slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white) 
 ![Notion](https://img.shields.io/badge/-Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white) 
