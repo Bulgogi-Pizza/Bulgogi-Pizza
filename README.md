@@ -4,6 +4,10 @@
   <img src="https://render.gitanimals.org/lines/Bulgogi-Pizza?pet-id=596865399259950329" width="1000" height="120"/>
 </a>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/Bulgogi-Pizza?pet-id=596887672771602739" width="1000" height="120"/>
+</a>
+
 
 ## 🌐 Socials :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge?logo=Instagram&logoColor=white)]([https://www.instagram.com/__eastman/])
