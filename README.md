@@ -13,7 +13,7 @@
 ## 💻 Tech Stack :
 ![C](https://img.shields.io/badge/-C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white) 
 ![Python3](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,7 +21,7 @@
 ![Spyder IDE](https://img.shields.io/badge/-SpyderIDE-FF0000.svg?style=for-the-badge&logo=SpyderIDE&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/-eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-000000.svg?style=for-the-badge&logo=IntelliJ&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJIDEA-000000.svg?style=for-the-badge&logo=IntelliJ&logoColor=white)
 
 ![Slack](https://img.shields.io/badge/-Slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white) 
 ![Notion](https://img.shields.io/badge/-Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white) 
