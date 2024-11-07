@@ -43,6 +43,54 @@
 </a>
 
 
+
+
+
+
+
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/Bulgogi-Pizza?pet-id=619516803498802830" width="1000" height="120"/>
+</a>
+
+
+
+
+
+
+
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/Bulgogi-Pizza?pet-id=632532727934578355" width="1000" height="120"/>
+</a>
+
+
+
+
+
+
+
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/Bulgogi-Pizza?pet-id=635363199165226564" width="1000" height="120"/>
+</a>
+
+
+
+
+
+
+
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/Bulgogi-Pizza?pet-id=641489827644025044" width="1000" height="120"/>
+</a>
+
+
 ## 🌐 Socials :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge?logo=Instagram&logoColor=white)]([https://www.instagram.com/__eastman/])
 
