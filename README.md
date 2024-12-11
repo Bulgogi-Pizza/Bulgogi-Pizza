@@ -17,28 +17,32 @@
 
 ### 학습 및 학원 관리 웹 서비스 [ClazzBridge] 개발, 네이버클라우드캠프
 **2024.09 - 2024.11**
-- #### BackEnd
-    - 로그인
-        - SpringSecurity 사용
-        - JWT 발급 및 인증
-    - 질문 게시판
-        - MySQL, RESTful API 기반의 게시판 CRUD 요청 처리
-        - MySQL, Spring DATA JPA 기반의 DB 데이터 관리
-    - 강의실
-        - 학생 상태 관리
-            - Redis DB, Redis-Client 기반의 유저 상태 관리
-            - 이해 완료, 손 들기, 온라인의 상태 관리
-            - WebSocket 통신으로 강사에게 실시간 상태 공유
-    - 채팅
-        - Redis DB, Redis-Client 기반의 채팅 데이터 관리
-        - WebSocket 통신으로 실시간 채팅 구현
-    - 성능 개선
-        - JPA Repository를 사용해 DB 데이터 접근 시 Query문이 터무니 없이 길게 작성되어 DB 접근이 오래걸리고 비효율적인 문제 발견. 직접 Join을 사용한 Query문 작성 후 DB의 불필요한 호출을 줄임. 해당 데이터 요청의 Query문을 약 100줄에서 6줄로 줄여 코드 가독성을 높이고, 데이터 호출 속도를 약 30%로 줄여 효율 향상
-        - MongoDB를 사용해 채팅 데이터 관리 구축 중
-    - 특징
-        - Main BE svr., WebSocket BE svr. 두 개의 BE 서버 구성으로 MicroService 구축
+#### BackEnd  
+- 로그인
+    - SpringSecurity 사용
+    - JWT 발급 및 인증
+- 질문 게시판
+    - MySQL, RESTful API 기반의 게시판 CRUD 요청 처리
+    - MySQL, Spring DATA JPA 기반의 DB 데이터 관리
+- 강의실, 학생 상태 관리
+    - Redis DB, Redis-Client 기반의 유저 상태 관리
+    - 이해 완료, 손 들기, 온라인의 상태 관리
+    - WebSocket 통신으로 강사에게 실시간 상태 공유
+- 채팅
+    - Redis DB, Redis-Client 기반의 채팅 데이터 관리
+    - WebSocket 통신으로 실시간 채팅 구현
+- 성능 개선
+    - JPA Repository를 사용해 DB 데이터 접근 시 Query문이 터무니 없이 길게 작성되어 DB 접근이 오래걸리고 비효율적인 문제 발견. 직접 Join을 사용한 Query문 작성 후 DB의 불필요한 호출을 줄임. 해당 데이터 요청의 Query문을 약 100줄에서 6줄로 줄여 코드 가독성을 높이고, 데이터 호출 속도를 약 30%로 줄여 효율 향상
+    - MongoDB를 사용해 채팅 및 유저 데이터 관리 구축 중 Redis의 메모리 기반 구동 특성상 데이터 처리 속도가 더 빠른 것을 알게 되어 Redis로 채팅 및 유저 데이터 관리 환경 변경
+- 특징
+    - Main BE svr., WebSocket BE svr. 두 개의 BE 서버 구성으로 MicroService 구축
      
-- #### FrontEnd
+#### FrontEnd
+- 질문 게시판
+    - 강사, 수강생, 매니저별 UI 및 기능 차이 구현
+- 강의실, 학생 상태 관리
+    - Floating Action Button(이하, FAB)으로 손 들기, 이해 완료의 상태를 toggle 할 수 있는 버튼 구현
+    - 화면 우측 중앙에 마우스 호버링 시 FAB가 튀어나오도록 구현
 - #### FrontEnd
 
 
