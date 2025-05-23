@@ -129,7 +129,13 @@
 
 ## 🐱 GitAnimals
 
-[![GitAnimals](https://render.gitanimals.org/farms/Bulgogi-Pizza)](https://github.com/devxb/gitanimals)
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Bulgogi-Pizza&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Bulgogi-Pizza"
+  width="600"
+  height="300"
+/>
+</a>
 
 ---
 
